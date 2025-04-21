@@ -6,8 +6,6 @@ https://www.linkedin.com/in/benjamin-taylor-trumble-/
 
 https://geography.washington.edu/people/benjamin-trumble
 
-Picture of Ben Trumble
-
 ![Picture of Ben Trumble](Trumble_Pic.jpg)
 
 # Experience
