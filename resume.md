@@ -60,10 +60,10 @@ University Website: https://geography.washington.edu/people/benjamin-trumble
 
 ## Selected Publications
 
-> Trumble, B. (2025) Spatial Theories of Democracy in the New England Town. American Association of Geographers 2025. Detroit, Michigan.
-> Trumble, B. (2025) Who Gets a Say? Censorship and Local Governance of Public Art. Deerfield-Wellesley Symposium. Wellsley, Massachusetts. 
-> Trumble, B. (Forthcoming). Losing the Trees for the Forest: The Evolution of New Hampshire Rural Character. Annual Proceedings of the Dublin Seminar 2024.
-> Trumble, B. (2020). Community at Risk: Identity, Memory, and Civic Challenges on the Iron Range. Macalester College Honors Digital Commons. Advisor: Professor Laura Smith.
+- Trumble, B. (2025) Spatial Theories of Democracy in the New England Town. American Association of Geographers 2025. Detroit, Michigan.
+- Trumble, B. (2025) Who Gets a Say? Censorship and Local Governance of Public Art. Deerfield-Wellesley Symposium. Wellsley, Massachusetts. 
+- Trumble, B. (Forthcoming). Losing the Trees for the Forest: The Evolution of New Hampshire Rural Character. Annual Proceedings of the Dublin Seminar 2024.
+- Trumble, B. (2020). Community at Risk: Identity, Memory, and Civic Challenges on the Iron Range. Macalester College Honors Digital Commons. Advisor: Professor Laura Smith.
 
 ## Additional Publications
 ```
