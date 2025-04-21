@@ -1,29 +1,27 @@
 # Ben Trumble
 
-trumbleb@uw.edu
+Email: trumbleb@uw.edu
 
-https://www.linkedin.com/in/benjamin-taylor-trumble-/
+LinkedIn: https://www.linkedin.com/in/benjamin-taylor-trumble-/
 
-https://geography.washington.edu/people/benjamin-trumble
+University Website: https://geography.washington.edu/people/benjamin-trumble
 
 ![Picture of Ben Trumble](Trumble_Pic.jpg)
 
-# Experience
-
-* Education *
+# Education
 
 ## University of Washington, Seattle, Washington
 
-** Doctoral Candidate, Department of Geography** (Entered Fall 2023)
+### Doctoral Candidate, Department of Geography (Entered Fall 2023)
 
-** Graduate Certificate in Demographic Methods, Center for Studies in Demography and Ecology **
+### Graduate Certificate in Demographic Methods, Center for Studies in Demography and Ecology
 
-** Graduate Teaching Assistant in Department of Geography **
+### Graduate Teaching Assistant in Department of Geography
 - Prepare weekly lessons in geography for up to fifty undergraduates, adapted to student need
 - Facilitate discussion sections and ensure student understanding of major geographic concepts
 - Grade student assignments, projects, and papers, providing detailed feedback to ensure growth
 
-*** Courses Taught as Teaching Assistant ***
+#### Courses Taught as Teaching Assistant
 - Intro to Human Geography (Spring 2025)
 - Geographic Information and Statistical Analysis (Fall 2024)
 - Introduction to GIS (Winter 2024, Spring 2024, Winter 2025)
@@ -32,22 +30,22 @@ https://geography.washington.edu/people/benjamin-trumble
 
 ## New York University, New York, New York
 
-** Master of Arts in Teaching** (July 2021)
+### Master of Arts in Teaching (July 2021)
 
 ## Macalester College, Saint Paul, Minnesota
 
-** Bachelor of Arts in Geography and History** (May 2020)
+### Bachelor of Arts in Geography and History (May 2020)
 
-** Undergraduate Preceptor and Research Assistant **
+### Undergraduate Preceptor and Research Assistant
 - Research Assistant to Professor Laura Smith (Summer 2019)
 - Preceptor for Regional Geography of the United States and Canada (Fall 2019)
 - Preceptor for History: Then and Now (Spring 2019)
 
-* Employment *
+# Employment
 
-## Stevens High School ## (August 2021-June 2023)	
+## Stevens High School (August 2021-June 2023)	
 
-** Social Studies Teacher ** 			           
+### Social Studies Teacher			           
 - Mentored homeroom of fifteen students, guiding through graduation to college and career readiness
 - Taught socio-economically diverse students while creating classroom community
 - Ensured content accessibility to all learners through scaffolding and universal design
@@ -60,14 +58,14 @@ https://geography.washington.edu/people/benjamin-trumble
 
 # Publications
 
-* Selected Publications *
+## Selected Publications
 
 > Trumble, B. (2025) Spatial Theories of Democracy in the New England Town. American Association of Geographers 2025. Detroit, Michigan.
 > Trumble, B. (2025) Who Gets a Say? Censorship and Local Governance of Public Art. Deerfield-Wellesley Symposium. Wellsley, Massachusetts. 
 > Trumble, B. (Forthcoming). Losing the Trees for the Forest: The Evolution of New Hampshire Rural Character. Annual Proceedings of the Dublin Seminar 2024.
 > Trumble, B. (2020). Community at Risk: Identity, Memory, and Civic Challenges on the Iron Range. Macalester College Honors Digital Commons. Advisor: Professor Laura Smith.
 
-* Full Publications *
+## Additional Publications
 ```
 - Trumble, B. (2024). [Review of The Pulse of the Earth: Political Geology in Java by Adam Bobbette]. International Institute for Asian Studies. https://www.iias.asia/the-review/pulse-earth-political-geology-java
 - Trumble, B. (2024). Contested Public Spaces: Free Speech Governance in Libraries. Presentation at American Association of Geographers 2024. Honolulu, Hawaii. 
